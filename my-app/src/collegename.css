@@ -1,0 +1,112 @@
+.text{
+    
+   width: 850px;
+   height: 290px;
+   border: 1px solid grey;
+   border-radius: 2px;
+   box-shadow: 5px;
+   margin-left: 20px;
+  
+   
+}
+.text_1{
+    font-family: 'DINPro-Medium';
+    font-size: 19px;
+    font-weight: 800;
+    margin-left: 10px;
+   
+   color:rgb(92, 90, 90);
+}
+.text_2_flex{
+    display: flex;
+}
+.text_2{
+    font-family: 'DINPro-Medium';
+    font-size: 15px;
+    font-weight: 700;
+   margin-left: 10px;
+   color:rgb(92, 90, 90);
+}
+.text_2_1{
+    font-family: 'DINPro-Medium';
+    font-size: 15px;
+    font-weight: 100;
+   margin-left: 3px;
+   color:rgb(92, 90, 90);
+}
+.text_3_flex{
+    display: flex;
+}
+.text_3_1{
+    font-family: 'DINPro-Medium';
+    font-size: 19px;
+    font-weight: 800;
+    margin-left: 10px;
+   
+   color:rgba(0, 128, 0, 0.452);
+}
+.text_3_2{
+    font-family: 'DINPro-Medium';
+    font-size: 19px;
+    font-weight: 200;
+}
+.text_3_3{
+    font-family: 'DINPro-Medium';
+    font-size: 19px;
+    font-weight: 100;
+    margin-left: 3px;
+   
+   color:grey;
+}
+.text_3_4{
+    font-family: 'DINPro-Medium';
+    font-size: 19px;
+    font-weight: 200;
+}
+.text_3_5{
+    font-family: 'DINPro-Medium';
+    font-size: 19px;
+    font-weight: 100;
+    margin-left: 3px;
+   
+   color:grey;
+}
+.box{
+    display: flex
+    ;
+    width: 480px;
+   height: 50px;
+   background-color: aquamarine;
+   border: 1px solid whitesmoke;
+   border-radius: 10px;
+   box-shadow: 5px;
+   margin-left: 10px;
+}
+.box__right{
+    display: flex;
+    margin-left: 80px;
+    color: green;
+    font-weight: bold;
+}
+.box_flex{
+    display: flex;
+}
+.price{
+    margin-left: 150px;
+    
+}
+.red{
+    color: red;
+    font-weight: 700;
+}
+.small{
+    color: grey;
+    font-weight: 200;
+    font-size: small;
+}
+.image__button{
+    background-color: aqua;
+   
+    border: 1px solid white;
+    width: 50px
+}
